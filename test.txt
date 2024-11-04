@@ -2,3 +2,4 @@ test1
 fetch and merge
 blame
 stash edited from linux
+stash 작업
